@@ -25,9 +25,7 @@ You can also search by latitude and longitude
 1. Determine the geographic area of interest on the map by clicking on the corner of the map selected area and modifying the region
 1. Click on the “Export” button in the left panel and download the OSM file that includes the 3D model of the environment.
 
-![Map
-
-Description automatically generated](osmSteps.png)
+![alt text](https://github.com/Colosseum-MATLAB-Project/channelSimulator/osmSteps.png?raw=true)
 
 **2.2 Setting up channel simulator and its software structure**
 

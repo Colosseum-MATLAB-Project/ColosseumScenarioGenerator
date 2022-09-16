@@ -25,7 +25,7 @@ You can also search by latitude and longitude
 1. Determine the geographic area of interest on the map by clicking on the corner of the map selected area and modifying the region
 1. Click on the “Export” button in the left panel and download the OSM file that includes the 3D model of the environment.
 
-![alt text](https://github.com/Colosseum-MATLAB-Project/channelSimulator/blob/main/osmSteps.png?raw=true)
+![alt text](https://github.com/Colosseum-MATLAB-Project/channelSimulator/blob/main/figures/osmSteps.png?raw=true)
 
 **2.2 Setting up channel simulator and its software structure**
 
@@ -169,9 +169,7 @@ Simulate the wireless scenario using ray-tracing propagation model.
 
 [chMatrix, coordinates, Time] = channelSimulator(parameters);
 
-![Diagram
-
-Description automatically generated](LTE-WiFiCoexistenceScenario.png)
+![alt text](https://github.com/Colosseum-MATLAB-Project/channelSimulator/blob/main/figures/LTE-WiFiCoexistenceScenario.png?raw=true)
 
 Plot time evolution of the paths between the LTE BS and LTE UE#2.
 
@@ -204,9 +202,7 @@ xlabel('TOA [$\mu S$]','Interpreter','latex');
 ylabel('Time [s]')
 
 
-![Chart, scatter chart
-
-Description automatically generated](ChanneltimeEvolution.png)
+![alt text](https://github.com/Colosseum-MATLAB-Project/channelSimulator/blob/main/figures/ChanneltimeEvolution.png?raw=true)
 
 Approximate the channels to the four taps for emulation on Colosseum.
 

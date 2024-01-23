@@ -1,10 +1,10 @@
-## Using MATLAB to build RF scenarios for the Colosseum Network Emulator**
+## Using MATLAB to build RF scenarios for the Colosseum Network Emulator
 This repository contains the example and functions to create RF scenarios for the Colosseum large-scale network emulator using MATLAB ray-tracer.
 
-**Acknowledgements
+**Acknowledgements**
   This work is supported by MathWorks under the Development-Collaboration Research Grant
 
-**Contact
+**Contact**
 
   * Miead Tehrani-Moayyed, Ph.D. Candidate  
   Graduate Research Assistant 
@@ -34,7 +34,7 @@ This repository contains the example and functions to create RF scenarios for th
 
 
 
-## Channel simulator Instruction Manual**
+## Channel simulator Instruction Manual
 
 **1. Introduction**
 

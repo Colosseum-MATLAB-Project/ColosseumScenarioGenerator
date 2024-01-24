@@ -35,7 +35,7 @@ This repository contains the example and functions to create RF scenarios for th
 
 
 
-## Channel simulator Instruction Manual
+## Colosseum RF Scenario Generator Instruction Manual
 
 **1. Introduction**
 
